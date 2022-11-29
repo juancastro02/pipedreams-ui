@@ -1,0 +1,44 @@
+.staff-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+}
+
+.staff-buttons-container {
+    margin: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+}
+
+.button-previous {
+    margin: 0px 60px  
+}
+
+.button-next-container {
+    margin: 0px 20px;
+    display: flex;
+    flex-direction: row
+}
+
+.staff-day-container {
+    margin: 0px 50px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.mt-40 {
+    margin-top: 40px
+}
+
+.staff-list-item {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
